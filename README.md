@@ -8,3 +8,6 @@ They are waitling for u!
 No tengo ningun contacto directo con su respectivo owner, sino que esto lo hice por propio interes y para ser más rapido al momento de apoyar al servidor.
 
 I have no contact or knowledge of the owner of the server, I did this code with the porpouse of supporting the server.
+
+***
+All code in here is in python.
